@@ -11,5 +11,7 @@ public class git {
         System.out.println("hello,git3");
         System.out.println("hot-fire first");
         System.out.println("push test");
+
+        System.out.println("pull test");
     }
 }
